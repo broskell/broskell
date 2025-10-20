@@ -55,6 +55,8 @@
 
 ### Connect with me:
 
+### Connect with me:
+
 <div align="center">
   <a href="https://www.linkedin.com/in/kellampalli-saathvik-354799360/?originalSubdomain=in" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -63,7 +65,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
   &nbsp; <a href="https://github.com/broskell" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo" />
   </a>
 </div>
+
 
