@@ -62,8 +62,8 @@
   &nbsp; <a href="https://www.instagram.com/saathvikkellampalli" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  &nbsp; <a href="https://github.com/broskell" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo" />
+   &nbsp; <a href="https://github.com/broskell" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="github logo" />
   </a>
 </div>
 
