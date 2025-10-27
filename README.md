@@ -49,7 +49,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853" title="Google Sheets" alt="Google Sheets" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -67,6 +69,7 @@
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="github logo" />
   </a>
 </div>
+
 
 
 
