@@ -15,7 +15,7 @@
     <td valign="top" width="65%">
 
 - 🌱 I’m currently learning more about Data Science and Web Development.
-- 🔭 I’m working on improving my skills in Python, Shell Scripting, Data Analysis, and HTML/CSS.
+- 🔭 I’m working on improving my skills in Python, Shell Scripting, and JS/HTML/CSS.
 - 👯 I’m looking to collaborate on interesting open-source projects.
 - 🤔 I’m looking for help with advanced programming concepts.
 - 💬 Ask me about anything related to my projects!
@@ -71,4 +71,5 @@
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="github logo" />
   </a>
 </div>
+
 
