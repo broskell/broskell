@@ -10,7 +10,7 @@
 
 ---
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="65%">
 
@@ -23,16 +23,6 @@
 - ⚡ Fun fact: I'm always looking for the next cool thing to build.
 
     </td>
-    <td valign="top" width="35%">
-
-<a href="https://github.com/broskell">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=broskell&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
-</a>
-<br><br>
-<a href="https://github.com/broskell">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=broskell&layout=compact&theme=dark&hide_border=true" />
-</a>
-
     </td>
   </tr>
 </table>
@@ -71,6 +61,7 @@
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="github logo" />
   </a>
 </div>
+
 
 
 
