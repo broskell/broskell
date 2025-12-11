@@ -14,13 +14,11 @@
   <tr>
     <td valign="top" width="65%">
 
-- 🌱 I’m currently learning more about Data Science and Web Development.
-- 🔭 I’m working on improving my skills in Python, Shell Scripting, and Web Dev.
-- 👯 I’m looking to collaborate on interesting open-source projects.
-- 🤔 I’m looking for help with advanced programming concepts.
-- 💬 Ask me about anything related to my projects!
-- 📫 How to reach me: **saathvik.kp@gmail.com**
-- ⚡ Fun fact: I'm always looking for the next cool thing to build.
+- 🎓 Student at IIT Jodhpur & LeapStart School of Technology, building a strong foundation in applied computing
+- 🌱 Exploring Data Science, Linux systems, and Web Development through hands-on learning
+- 🚀 Building beginner products using Python, JavaScript, Web Dev, Bash, SQL, and LLM / API integrations with continuous learning
+- 🖤 Open to collaborating on beginner-friendly open-source projects and web apps
+- 📧 Reach me at: saathvik.kp@gmail.com
 
     </td>
     </td>
@@ -61,6 +59,7 @@
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="github logo" />
   </a>
 </div>
+
 
 
 
