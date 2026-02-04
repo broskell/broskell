@@ -38,6 +38,7 @@
       <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" title="Google Colab" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="45" height="45"/>
+      <img src="https://cdn.simpleicons.org/googlesheets/34A853" title="Google Sheets" width="45" height="45"/>
     </td>
     <td align="center" width="400">
       <b>Web Development</b><br><br>
@@ -60,7 +61,6 @@
       <br><b>Tools & Version Control</b><br><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" width="45" height="45"/>&nbsp;
-      <img src="https://cdn.simpleicons.org/googlesheets/34A853" title="Google Sheets" width="45" height="45"/>
     </td>
   </tr>
 </table>
@@ -80,6 +80,7 @@
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="github logo" />
   </a>
 </div>
+
 
 
 
