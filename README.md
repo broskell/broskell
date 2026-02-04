@@ -51,14 +51,14 @@
   </tr>
   <tr>
     <td align="center" width="400">
-      <br><b>OS & Cybersecurity</b><br><br>
+      <b>OS & Cybersecurity</b><br><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell Scripting" width="45" height="45"/>&nbsp;
       <img src="https://cdn.simpleicons.org/ubuntu/E95420" title="Ubuntu" width="45" height="45"/>&nbsp;
       <img src="https://cdn.simpleicons.org/kalilinux/557C94" title="Kali Linux" width="45" height="45"/>
     </td>
     <td align="center" width="400">
-      <br><b>Tools & Version Control</b><br><br>
+      <b>Tools & Version Control</b><br><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" width="45" height="45"/>&nbsp;
     </td>
@@ -80,6 +80,7 @@
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="github logo" />
   </a>
 </div>
+
 
 
 
