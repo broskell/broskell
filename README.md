@@ -14,11 +14,12 @@
   <tr>
     <td valign="top" width="65%">
 
-- 🎓 Student at IIT Jodhpur & LeapStart School of Technology, building a strong foundation in applied computing
-- 🌱 Exploring Data Science, Linux systems, and Web Development through hands-on learning
-- 🚀 Building beginner products using Python, JavaScript, Web Dev, Bash, SQL, and LLM / API integrations with continuous learning
-- 🖤 Open to collaborating on beginner-friendly open-source projects and web apps
-- 📧 Reach me at: saathvik.kp@gmail.com
+- 🎓 **BS in Applied AI & Data Science | IIT Jodhpur × LeapStart**
+- 💡 **Development:** Building data-driven applications using **Python, React**, and **PostgreSQL.**
+- 🛡️ **Systems:** Proficient in **Linux** environments, **Bash scripting**, and **Kali Linux.**
+- 🌐 **Open Source:** Actively contributing to community projects and open-source web tools to refine collaborative coding practices.
+- 🚀 **Focus:** Exploring the integration of **LLM APIs** and automated data workflows.
+- 📩 **Connect with me:** saathvik.kp@gmail.com
 
     </td>
     </td>
@@ -80,6 +81,7 @@
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="github logo" />
   </a>
 </div>
+
 
 
 
