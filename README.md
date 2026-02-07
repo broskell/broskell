@@ -17,7 +17,7 @@
 - 🎓 **BS in Applied AI & Data Science | IIT Jodhpur × LeapStart**
 - 💡 **Development:** Building data-driven applications using **Python, React**, and **PostgreSQL.**
 - 🛡️ **Systems:** Proficient in **Linux** environments, **Bash scripting**, and **Kali Linux.**
-- 🌐 **Open Source:** Actively contributing to community projects and open-source web tools to refine collaborative coding practices.
+- 🌐 **Open Source**: Contributing to community-driven projects and collaborative web tools.
 - 🚀 **Focus:** Exploring the integration of **LLM APIs** and automated data workflows.
 - 📩 **Connect with me:** saathvik.kp@gmail.com
 
@@ -81,6 +81,7 @@
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="github logo" />
   </a>
 </div>
+
 
 
 
