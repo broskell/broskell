@@ -47,7 +47,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="45" height="45"/>&nbsp;
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" title="Tailwind CSS" title="HTML5" width="45" height="45"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="45" height="45"/>
     </td>
   </tr>
@@ -82,6 +81,7 @@
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="github logo" />
   </a>
 </div>
+
 
 
 
