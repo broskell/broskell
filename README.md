@@ -46,7 +46,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="45" height="45"/>&nbsp;
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" title="Tailwind CSS" title="HTML5" width="45" height="45"/>&nbsp;
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" title="Tailwind CSS" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="45" height="45"/>
     </td>
   </tr>
@@ -61,6 +61,8 @@
     <td align="center" width="400">
       <b>Tools & Version Control</b><br><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="45" height="45"/>&nbsp;
+      <img src="https://cdn.simpleicons.org/github/white" title="GitHub" width="45" height="45"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" width="45" height="45"/>&nbsp;
     </td>
   </tr>
