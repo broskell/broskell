@@ -47,7 +47,8 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="45" height="45"/>&nbsp;
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" title="Tailwind CSS" width="45" height="45"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="45" height="45"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="45" height="45"/>&nbsp;
+      <img src="https://cdn.simpleicons.org/xampp/FB7A24" title="XAMPP" width="45" height="45"/>
     </td>
   </tr>
   <tr>
