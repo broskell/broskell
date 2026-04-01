@@ -24,7 +24,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="45" height="45"/>&nbsp;
-      <img src="https://cdn.simpleicons.org/tableau/E97628" title="Tableau" width="45" height="45"/>&nbsp;
+      <img src="https://github.com/broskell/devicon/blob/master/icons/tableau%20/tableau-white.png" title="Tableau" width="45" height="45"/>&nbsp;
       <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" title="Google Colab" width="45" height="45"/>
     </td>
     <td align="center" width="400">
