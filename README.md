@@ -25,6 +25,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="45" height="45"/>&nbsp;
       <img src="https://raw.githubusercontent.com/broskell/devicon/master/icons/tableau%20/tableau-plain.svg" title="Tableau" width="45" height="45"/>&nbsp;
+      <img src="https://cdn.simpleicons.org/powerbi/F2C811" title="PowerBI" width="45" height="45"/>&nbsp;
       <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" title="Google Colab" width="45" height="45"/>
     </td>
     <td align="center" valign="top">
